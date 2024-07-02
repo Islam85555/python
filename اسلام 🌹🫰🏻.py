@@ -1,5 +1,4 @@
 
-
 تم توقيف اداء اسلام الجوكر
 
 
@@ -31,7 +30,6 @@ hour = str(now.hour)
 mi = str(now.minute)
 ss = str(now.second)
 t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
-
   
 hours = (now.hour)
 x = datetime.datetime.now()
