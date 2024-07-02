@@ -1,12 +1,4 @@
-
-تم توقيف اداء اسلام الجوكر
-
-
-
 import requests,bs4,json,os,sys,random,datetime,time,re
-
-
-
 import urllib3,rich,base64
 from rich.table import Table as me
 from rich.console import Console as sol
