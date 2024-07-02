@@ -36,7 +36,6 @@ if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
  print(x)
  
-@Islam85555
 if (x.strftime("%x"))==(g.strftime("%x")):
    print('')
    if(x.strftime("%X"))>(g.strftime("%X")):
