@@ -1,3 +1,7 @@
+
+تم توقيف اداء اسلام الجوكر
+
+
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
 from rich.table import Table as me
@@ -32,7 +36,7 @@ if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
  print(x)
  
-
+@Islam85555
 if (x.strftime("%x"))==(g.strftime("%x")):
    print('')
    if(x.strftime("%X"))>(g.strftime("%X")):
