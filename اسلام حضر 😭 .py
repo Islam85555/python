@@ -804,8 +804,8 @@ def cek_RAVEN(kuki):
 	x = sop.find("form",method="post")
 	game = [i.text for i in x.find_all("h3")]
 	try:
-	for i in range(len(game))
-print ("\r%s  \033[0m              ➛ %s%s"%(P,H,game[i].replace("Ditambahkan pada"," Ditambahkan pada")))
+		for i in range(len(game)):
+			print ("\r%s  \033[0m              ➛ %s%s"%(P,H,game[i].replace("Ditambahkan pada"," Ditambahkan pada")))
 	except AttributeError:
 		print ("\r    %s\033[0m cookie invalid"%(M))
 	w=session.get("https://mbasic.facebook.com/settings/apps/tabbed/?tab=inactive",cookies={"cookie":"noscript=1;"+kuki}).text
