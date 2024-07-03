@@ -1,5 +1,5 @@
 import requests,bs4,json,os,sys,random,datetime,time,re
-import urllib3,rﷲ♕ich,base64
+import urllib3,rich,base6AA4
 from rich.table import Table as me
 from rich.console import Console as sol
 from bs4 import BeautifulSoup as sop
