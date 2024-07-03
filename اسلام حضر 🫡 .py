@@ -343,7 +343,7 @@ def menu(my_name,my_id):
 	os.system('clear')
 	from rich.panel import Panel as Ch
 	from rich import print as code
-	code(Ch('      💢 - اقـل عـدد ايـديـات خـلـي بالاداة 10')صور اصيد @Islam85555) 
+	code(Ch('      💢 - اقـل عـدد ايـديـات خـلـي بالاداة 10')) 
 	print('')
 	print(a16+'▭▬'*30)
 	print(f"\033[97;1m[\033[92;1m1\033[97;1m] \x1b[33m\x1b[33m \x1b[33m[{MJ3}CRACK PUBLIC\x1b[36m\x1b[33m]")
