@@ -1,5 +1,5 @@
 import requests,bs4,json,os,sys,random,datetime,time,re
-import urllib3,rich,base6AA4
+import urllib3,rich,base64
 from rich.table import Table as me
 from rich.console import Console as sol
 from bs4 import BeautifulSoup as sop
@@ -13,7 +13,7 @@ from rich.columns import Columns as col
 from rich import print as rprint
 from rich import pretty
 from rich.text import Text as tekz
-now = datetime.datetime.today()
+now = datetime.datetime.today(😎😎)
 now = datetime.datetime.today()
 mm = str(now.month)
 dd = str(now.day)
