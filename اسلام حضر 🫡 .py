@@ -48,7 +48,7 @@ else:
     print('')
     
 os.system('clear')
-print('                  انـتضـر قـلـيـلاً                 ')
+print('                   مرحب بكم في اداء اسلام الجوكر المدفوعه                 ')
 token = input('\x1b[1;31mT\x1b[1;32mO\x1b[1;33mK\x1b[1;34mE\x1b[1;36mN\x1b[1;35m :\x1b[1;32m ')
 print('\n')
 ID = input('\x1b[1;31mI\x1b[1;34mD \x1b[1;32m   : ')
