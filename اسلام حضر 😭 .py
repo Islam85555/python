@@ -37,7 +37,7 @@ if (x.strftime("%x"))==(g.strftime("%x")):
    print('')
    if(x.strftime("%X"))>(g.strftime("%X")):
     print('\n\n')
-    print("     "+'خلص اشتراك عليك مراجعة صانع اداة @F_1_9 ☄️🗿')
+    print("     "+'خلص اشتراك عليك مراجعة صانع اداة @Islam85555 ☄️🗿')
     print('\n\n')
     print(x)
     
@@ -717,7 +717,7 @@ def passwrd():
 					pwv.append('12341234@@')
 					pwv.append('zokoloko')
 					pwv.append('aliali@@')
-					pwv.append('حسين علي')
+					pwv.append(' Aa123456')
 					pwv.append('mustafa2000')
 					pwv.append('11112222@@')
 					pwv.append('11112222@')
