@@ -13,7 +13,7 @@ from rich.columns import Columns as col
 from rich import print as rprint
 from rich import pretty
 from rich.text import Text as tekz
-now = datetime.datetime.today(😎😎)
+now = datetime.datetime.today()
 now = datetime.datetime.today()
 mm = str(now.month)
 dd = str(now.day)
