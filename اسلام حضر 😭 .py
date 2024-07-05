@@ -806,3 +806,15 @@ def cek_RAVEN(kuki):
 	try:
 		for i in range(len(game)):
 			print ("\r%s  \033[0m              ➛ %
+except AttributeError:
+		print ("\r    %s \033[0mcookie invalid"%(M))
+if __name__=='__main__':
+    try:os.system('git pull')
+    except:pass
+    try:os.mkdir('OK')
+    except:pass
+    try:os.mkdir('CP')
+    except:pass
+    try:os.mkdir('/sdcard/VENOM-FB')
+    except:pass
+    RR()
