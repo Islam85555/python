@@ -715,7 +715,7 @@ def passwrd():
 					pwv.append('19901990@')
 					pwv.append('19901990@@')
 					pwv.append('12341234@@')
-					pwv.append('zokoloko')
+					pwv.append('112233445566')
 					pwv.append('aliali@@')
 					pwv.append('qwerty123456')
 					pwv.append('mustafa2000')
